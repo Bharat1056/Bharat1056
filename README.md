@@ -25,7 +25,6 @@
 
 - 🌱 I’m currently learning **React, Tailwind CSS, Firebase** - 💬 Ask me about
 **react, javascript and java** - 📫 reach me at **bharatpanigrahi225@gmail.com**
-- ⚡ Fun fact **I think I am funny** ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
