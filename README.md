@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/c04834991bd724271632b1aa569fd5ae9564b2c12fdea274f8d577695c8f835d/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958)
 <h1 align="center">Hi 👋, I'm Bharat Panigrahi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 <img
   align="right"
   alt="Coding"
@@ -23,7 +23,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **React, Tailwind CSS, Firebase** - 💬 Ask me about
+- 🌱 I’m currently learning **Kubernetes, Jenkins** - 💬 Ask me about
 **react, javascript and java** - 📫 reach me at **bharatpanigrahi225@gmail.com**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
