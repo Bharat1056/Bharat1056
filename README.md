@@ -1,5 +1,5 @@
 # 💫 About Me:
-Making Own UI Library<br>Full-Stack Project<br>Improving my knowledge and experience in the cloud domain<br>Generative AI<br>React, Linux, Backend<br>I enjoy exploring how small design changes in user interfaces can significantly impact user experience
+Making Snipkit<br>Full-Stack Project<br>Improving my knowledge and experience in the cloud domain<br>Generative AI<br>React, Linux, Backend<br>I enjoy exploring how small design changes in user interfaces can significantly impact user experience
 
 
 ## 🌐 Socials:
