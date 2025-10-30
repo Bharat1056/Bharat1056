@@ -1,4 +1,3 @@
-# 💫 About Me
 I am a Full-Stack Developer specializing in building scalable and distributed systems. My current projects include:
 
 - **AI-Agent Workflow** inspired by n8n using **Node.js**
