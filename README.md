@@ -17,7 +17,7 @@ I focus on improving my expertise in **cloud technologies**, **backend systems**
 
 ## 💻 Tech Stack
 - **Frontend:** React
-- **Backend:** Node.js, Java, Spring Boot
+- **Backend:** Node.js, Java, Spring Boot, Go
 - **Systems & Infrastructure:** Go, Linux
 - **Other:** Cloud technologies, Distributed systems
 
