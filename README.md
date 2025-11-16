@@ -2,7 +2,7 @@ I am a Full-Stack Developer specializing in building scalable and distributed sy
 
 - **AI-Agent Workflow** inspired by n8n using **Node.js**
 - **Distributed Storage System** using **Go**
-- **Scalable URL Shortener** using **Spring Boot**
+- **Real-time DB** using **Go and bbolt**
 
 I focus on improving my expertise in **cloud technologies**, **backend systems**, **generative AI**, and **frontend development with React**. I am particularly interested in how small design and architecture decisions can significantly impact **system performance** and **user experience**.
 
@@ -20,12 +20,6 @@ I focus on improving my expertise in **cloud technologies**, **backend systems**
 - **Backend:** Node.js, Java, Spring Boot
 - **Systems & Infrastructure:** Go, Linux
 - **Other:** Cloud technologies, Distributed systems
-
----
-
-## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharat1056&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat1056&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
