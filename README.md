@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/adventure-banner.png" width="100%" alt="Pixel-art adventure banner: Bharat coding beside a campfire under a starry sky" />
+<img src="./adventure-banner.png" width="100%" alt="Pixel-art adventure banner: Bharat coding beside a campfire under a starry sky" />
 
 # ⚔️ Hey, I'm Bharat!
 
