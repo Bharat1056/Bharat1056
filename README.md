@@ -1,46 +1,80 @@
-I am a Full-Stack Developer specializing in building scalable and distributed systems. My current projects include:
+<div align="center">
 
-- **AI-Agent Workflow** inspired by n8n using **Node.js**
-- **Distributed Storage System** using **Go**
-- **Real-time DB** using **Go and bbolt**
+<img src="./assets/adventure-banner.png" width="100%" alt="Pixel-art adventure banner: Bharat coding beside a campfire under a starry sky" />
 
-I focus on improving my expertise in **cloud technologies**, **backend systems**, **generative AI**, and **frontend development with React**. I am particularly interested in how small design and architecture decisions can significantly impact **system performance** and **user experience**.
+# ⚔️ Hey, I'm Bharat!
 
----
+**Software Engineer • Builder of things • Curious about how systems work**
 
-## 🌐 Connect
-- [LinkedIn](https://linkedin.com/in/bharat-panigrahi)
-- [X](https://x.com/Bharat1056)
-- [Email](mailto:bharatpanigrahi225@gmail.com)
+*Turning ideas into side quests, one commit at a time.*
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Bharat1056-181717?style=for-the-badge&logo=github)](https://github.com/Bharat1056)
+[![Repositories](https://img.shields.io/badge/Explore-My_Projects-7c3aed?style=for-the-badge&logo=github)](https://github.com/Bharat1056?tab=repositories)
 
-## 💻 Tech Stack
-- **Frontend:** React
-- **Backend:** Node.js, Java, Spring Boot, Go
-- **Systems & Infrastructure:** Go, Linux
-- **Other:** Cloud technologies, Distributed systems
+</div>
 
 ---
 
-## 🚀 My Projects
-- [**URL Shortener (Frontend)**](https://github.com/Bharat1056/url-shortener-frontend) - Frontend for the scalable URL shortener.
-- [**URL Shortener (Backend)**](https://github.com/Bharat1056/url-shortener-backend) - Spring Boot backend for the URL shortener.
-- [**Vibe Workflow**](https://github.com/Bharat1056/vibe-workflow) - AI-Agent workflow system inspired by n8n.
-- [**E-Commerce Microservices**](https://github.com/Bharat1056/E-Commmerce-Micro-Service) - A microservice-based e-commerce platform.
-- [**Xui Component Library**](https://github.com/Bharat1056/Xui-Component-Library) - A custom UI component library.
-- [**Free Web Container**](https://github.com/Bharat1056/free-web-container) - A website builder using AI Agent and host using Docker web container.
-- [**Snipkit**](https://github.com/Bharat1056/snipkit) - A CLI based code snippet management tool.
-- [**Multi-Tenant App**](https://github.com/Bharat1056/multi-tenant-app) - An application demonstrating multi-tenancy architecture.
+### 🧙 Character sheet
+
+```text
+PLAYER       Bharat Panigrahi
+CLASS        Software Engineer / Full-Stack Builder
+MAIN QUEST   Build useful products and understand systems deeply
+SIDE QUESTS  Go • Distributed Systems • AI Tooling • System Design
+CURRENT XP   Always learning
+```
+
+I enjoy building products end-to-end — from interfaces people love using to APIs, queues, databases, and the infrastructure behind them. I'm especially curious about what happens *after* a request leaves the browser.
+
+### 🎒 My inventory
+
+**Languages:** Go · Java · TypeScript · JavaScript · SQL
+
+**Frontend:** React · Next.js · Tailwind CSS · Redux · React Query
+
+**Backend:** Node.js · Spring Boot · REST APIs · Prisma
+
+**Systems & data:** PostgreSQL · MongoDB · Redis · Kafka · RabbitMQ
+
+**Tools:** Docker · Git · Linux · AWS · Nginx
+
+### 🗺️ Quest log — things I've built
+
+| Quest | What I explored |
+| --- | --- |
+| **Vibe** | AI-assisted website generation, agent workflows, and sandboxed execution |
+| **Snipkit** | Developer tooling and making reusable code easier to manage |
+| **Vibe Workflow** | Visual workflow orchestration and AI automation |
+| **URL Shortener** | Spring Boot APIs, redirects, persistence, and analytics |
+| **E-Commerce Microservices** | Service boundaries, event-driven messaging, and distributed architecture |
+| **Xui** | Reusable React UI components and developer experience |
+
+**[Explore my repositories →](https://github.com/Bharat1056?tab=repositories)**
+
+### 🔮 Currently leveling up
+
+- Designing reliable backend services with **Go** and **Java**
+- Understanding **distributed systems**, concurrency, and messaging
+- Experimenting with **AI agents**, automation, and developer tools
+- Practicing **system design** and building projects that teach me something new
+
+### 📜 Adventure log
+
+<div align="center">
+
+![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharat1056&theme=tokyo-night&hide_border=true)
+
+*Every commit is a little more XP.*
+
+</div>
 
 ---
 
-### 🤝 Let's Collaborate
-I'm always open to connecting with other developers. Reach out if you want to talk about **distributed systems**, **Go**, or **AI-driven workflows**!
+<div align="center">
 
----
+**Thanks for stopping by my little corner of GitHub.**
 
-### ⚡ My Recent Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharat1056&theme=gruvbox&hide_border=true&color=fabd2f&line=fabd2f&point=ebdbb2&area=true)
+*The next quest is already loading...*
 
----
+</div>
