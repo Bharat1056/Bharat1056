@@ -59,22 +59,14 @@ I enjoy building products end-to-end — from interfaces people love using to AP
 - Experimenting with **AI agents**, automation, and developer tools
 - Practicing **system design** and building projects that teach me something new
 
-### 📜 Adventure log
+### 📜 Adventure Log
 
 <div align="center">
 
-![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharat1056&theme=tokyo-night&hide_border=true)
+**Every commit is a little more XP.**
 
-*Every commit is a little more XP.*
+[![GitHub Profile](https://img.shields.io/badge/View_My_Contributions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharat1056)
 
-</div>
-
----
-
-<div align="center">
-
-**Thanks for stopping by my little corner of GitHub.**
-
-*The next quest is already loading...*
+*Building, learning, and leveling up — one commit at a time.*
 
 </div>
